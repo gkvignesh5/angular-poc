@@ -1,0 +1,1609 @@
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: rds-icon;
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.eot?ODAzLjkuMg);
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.eot?ODAzLjkuMg#iefix) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.svg?ODAzLjkuMg#rds-icon) format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.snipcss-bnJox {
+    background-color: #222222;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Ted Next';
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: "Ted Next";
+}
+
+@media (min-width: 400px) {
+    .mt-xs-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 600px) {
+    .mt-sm-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .mt-md-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.col-lg-12,
+.col-md-12,
+.col-sm-12,
+.col-xs-12 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+@media (min-width: 400px) {
+    .col-xs-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 600px) {
+    .col-sm-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 900px) {
+    .col-md-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+* {
+    display: block;
+    display: block;
+}
+
+@media (min-width: 1200px) {
+    .dsa-layout>.row>.mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        padding-right: 0;
+        padding-left: 0;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        max-width: 100%;
+        max-width: 100%;
+    }
+}
+
+.w-100 {
+    width: 100%!important;
+    width: 100% !important;
+}
+
+.l-pageMain {
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition: padding-top .6s cubic-bezier(.4, 0, .2, 1);
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-delay: 0s;
+    transition-property: padding-top;
+}
+
+.main[_ngcontent-browse-rogers-c0] {
+    overflow-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+@media (min-width: 900px) {
+    #mainContent {
+        padding-top: 150px;
+        padding-top: 150px;
+    }
+}
+
+body {
+    height: 100%;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-x: hidden;
+}
+
+body {
+    font-size: 1.6rem;
+    color: #1f1f1f;
+    color: rgb(31, 31, 31);
+}
+
+body {
+    background: #fff;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+}
+
+html {
+    height: 100%;
+    height: 100%;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.mt-4 {
+    margin-top: 4px!important;
+    margin-top: 4px !important;
+}
+
+.dsa-tabs .m-tabsHeader {
+    position: relative;
+    overflow-x: auto;
+    overflow-x: -moz-scrollbars-none;
+    border-bottom: 1px solid #ccc;
+    overflow: auto;
+    position: relative;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(204, 204, 204);
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabsHeader {
+        position: relative;
+        overflow-x: auto;
+        border-bottom: none;
+        position: relative;
+        overflow-x: auto;
+        border-bottom-width: initial;
+        border-bottom-style: none;
+        border-bottom-color: initial;
+    }
+}
+
+.dsa-tabs .m-tabsHeader:-webkit-scrollbar {
+    display: none;
+    display: none;
+}
+
+.dsa-tabs .m-tabPaneContainer {
+    overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: flex;
+}
+
+.dsa-tabs .m-tabsHeader .m-tablets {
+    display: flex;
+    justify-content: space-evenly;
+    height: 56px;
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-evenly;
+    height: 56px;
+    align-items: flex-end;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabsHeader .m-tablets {
+        height: 78px;
+        height: 78px;
+    }
+}
+
+.dsa-tabs .m-tabsHeader .m-activeTabletRail {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    display: none;
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    display: none;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabsHeader .m-activeTabletRail {
+        bottom: 1px;
+        bottom: 1px;
+    }
+}
+
+.dsa-tabs .m-tabsHeader .m-tabDivider {
+    display: none;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    bottom: 0;
+    height: 1px;
+    width: calc(100% - (16px * 2));
+    z-index: -1;
+    background-color: #ccc;
+    display: none;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    bottom: 0px;
+    height: 1px;
+    width: calc(100% - 32px);
+    z-index: -1;
+    background-color: rgb(204, 204, 204);
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabsHeader .m-tabDivider {
+        display: block;
+        z-index: 1;
+        display: block;
+        z-index: 1;
+    }
+}
+
+.dsa-tabs .m-tabPaneContainer__wrapper {
+    width: 100%;
+    position: relative;
+    width: 100%;
+    position: relative;
+}
+
+.dsa-tabs .a-tablet {
+    position: relative;
+    border: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: 400;
+    font-size: 18px;
+    white-space: nowrap;
+    background-color: transparent;
+    height: calc(100%);
+    cursor: pointer;
+    position: relative;
+    border-top-width: initial;
+    border-right-width: initial;
+    border-bottom-width: initial;
+    border-left-width: initial;
+    border-top-style: none;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: 400;
+    font-size: 18px;
+    white-space: nowrap;
+    background-color: transparent;
+    height: calc(100%);
+    cursor: pointer;
+    color: #fff;
+}
+
+.dsa-tabs .a-tablet.-active {
+    font-weight: 600;
+    font-weight: 600;
+}
+
+.dsa-tabs .a-tablet:after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 3px;
+    width: 0;
+    display: inline-block;
+    margin: auto;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    background-color: #000;
+    transition: width .5s ease-in-out;
+    content: "";
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    height: 3px;
+    width: 0px;
+    display: inline-block;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    background-color: rgb(0, 0, 0);
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: width;
+    color: #fff !important;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .a-tablet:after,
+    .dsa-tabs .m-tabsHeader .m-activeTabletRail {
+        bottom: 1px;
+        bottom: 1px;
+    }
+}
+
+.dsa-tabs .a-tablet.-active:after,
+.a-tablet:focus:after,
+.a-tablet:hover:after {
+    width: calc(100% - (16px * 2));
+    margin: auto;
+    width: calc(100% - 32px);
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    background-color: red;
+}
+
+.dsa-tabs .m-tabsHeader .m-activeTabletRail__handle {
+    height: 3px;
+    width: 100px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    background-color: #000;
+    margin-left: 776px;
+    transition: all .5s ease-in-out;
+    height: 3px;
+    width: 100px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    background-color: rgb(0, 0, 0);
+    margin-left: 776px;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+    transition-delay: 0s;
+    transition-property: all;
+}
+
+.dsa-tabs .m-tabsHeader .m-activeTabletRail__handle.-resize {
+    transition: none;
+    transition-duration: 0s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: none;
+}
+
+.dsa-tabs .m-tabBody {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabBody {
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+.dsa-tabs .dsa-tabItem {
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.dsa-tabs .dsa-tabItem__actionContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .dsa-tabItem__actionContainer {
+        margin-top: 0;
+        margin-top: 0px;
+    }
+}
+
+.dsa-cardCarousel {
+    width: 100%;
+    width: 100%;
+}
+
+button.dsa-btnSecondary {
+    font-size: 1.3rem;
+    font-weight: 600;
+    position: relative;
+    height: 48px;
+    border-radius: 4px;
+    letter-spacing: .4px;
+    line-height: 1;
+    display: inline-block;
+    cursor: pointer;
+    background-color: transparent;
+    padding: 16px;
+    max-width: 100%;
+    text-align: center;
+    transition: all .5s cubic-bezier(.4, 0, .2, 1);
+    border: 1px solid transparent;
+    font-weight: 600;
+    position: relative;
+    height: 48px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    letter-spacing: 0.4px;
+    line-height: 1;
+    display: inline-block;
+    cursor: pointer;
+    background-color: transparent;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    max-width: 100%;
+    text-align: center;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-delay: 0s;
+    transition-property: all;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+button.dsa-btnSecondary {
+    background: #fff;
+    border-color: #da291c;
+    color: #da291c;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    border-top-color: rgb(218, 41, 28);
+    border-right-color: rgb(218, 41, 28);
+    border-bottom-color: rgb(218, 41, 28);
+    border-left-color: rgb(218, 41, 28);
+    color: rgb(218, 41, 28);
+}
+
+button.dsa-btnSecondary:hover {
+    box-shadow: 0 0 6px 0 rgba(65, 64, 66, .24);
+    text-decoration: none;
+    box-shadow: rgba(65, 64, 66, 0.24) 0px 0px 6px 0px;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+button.dsa-btnSecondary:hover {
+    color: #fff;
+    color: rgb(255, 255, 255);
+}
+
+.dsa-cardCarousel__container {
+    width: 100%;
+    overflow-x: auto;
+    overflow-x: -moz-scrollbars-none;
+    overflow: auto;
+    width: 100%;
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+.dsa-cardCarousel__container:-webkit-scrollbar {
+    display: none;
+    display: none;
+}
+
+.dsa-cardCarousel__container .m-carouselRail {
+    display: inline-flex;
+    padding: 18px 0;
+    min-width: 100%;
+    display: inline-flex;
+    padding-top: 18px;
+    padding-right: 0px;
+    padding-bottom: 18px;
+    padding-left: 0px;
+    min-width: 100%;
+}
+
+.dsa-cardCarousel__container .m-carouselRail>* {
+    flex-basis: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+    flex-grow: 1;
+}
+
+.dsa-card {
+    border-radius: 4px;
+    box-shadow: 0 0 8px 2px rgba(65, 64, 66, .1);
+    transition: all .3s;
+    overflow: hidden;
+    white-space: initial;
+    height: 100%;
+    min-height: 500px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    box-shadow: rgba(65, 64, 66, 0.1) 0px 0px 8px 2px;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: initial;
+    height: 100%;
+    min-height: 500px;
+}
+
+.dsa-cardCarousel .dsa-card {
+    min-width: 264px;
+    margin: 0 12px;
+    min-width: 264px;
+    margin-top: 0px;
+    margin-right: 12px;
+    margin-bottom: 0px;
+    margin-left: 12px;
+}
+
+.dsa-card:hover {
+    box-shadow: 0 0 36px -7px rgba(54, 53, 55, .7);
+    transform: scale(1.01);
+    outline-width: 2px;
+    cursor: pointer;
+    box-shadow: rgba(54, 53, 55, 0.7) 0px 0px 36px -7px;
+    transform: scale(1.01);
+    outline-width: 2px;
+    cursor: pointer;
+}
+
+.dsa-cardOffer {
+    display: flex;
+    flex-flow: column;
+    min-height: 500px;
+    height: 100%;
+    transition: all 180ms;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: initial;
+    min-height: 500px;
+    height: 100%;
+    transition-duration: 180ms;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    background-color: #000;
+    text-align: center;
+}
+
+.dsa-cardOffer * {
+    // color: #1e1e1e;
+    // color: rgb(30, 30, 30);
+}
+
+.dsa-card .a-flagPlaceholder {
+    text-align: center;
+    font-size: 14px;
+    padding: 7px;
+    background-color: #da291c;
+    color: #fff;
+    font-weight: 500;
+    order: 10;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 7px;
+    padding-right: 7px;
+    padding-bottom: 7px;
+    padding-left: 7px;
+    background-color: rgb(218, 41, 28);
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    order: 10;
+}
+
+.dsa-card [class^="dsa-card"]>[class*="Header"] {
+    order: 20;
+    order: 20;
+}
+
+.dsa-cardOffer .m-offerBody {
+    padding: 16px 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: initial;
+    flex-wrap: initial;
+    flex-direction: column;
+    flex: auto;
+    padding-top: 16px;
+    padding-right: 24px;
+    padding-bottom: 16px;
+    padding-left: 24px;
+    display: flex;
+    justify-content: space-between;
+    align-items: initial;
+    flex-wrap: initial;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-shrink: 1;
+    flex-basis: auto;
+    color: #fff;
+}
+
+@media (min-width: 900px) {
+    .dsa-cardOffer .m-offerBody {
+        padding: 16px 24px 24px;
+        padding-top: 16px;
+        padding-right: 24px;
+        padding-bottom: 24px;
+        padding-left: 24px;
+    }
+}
+
+.dsa-card [class^="dsa-card"]>[class*="Body"] {
+    order: 30;
+    order: 30;
+}
+
+.dsa-card .a-image {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: initial;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: initial;
+}
+
+.dsa-cardOffer .a-image {
+    height: 100%;
+    overflow: hidden;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+@media (min-width: 900px) {
+    .dsa-cardOffer .a-image {
+        height: 100%;
+        height: 100%;
+    }
+}
+
+.dsa-cardOffer .m-offerBody__footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: initial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: initial;
+}
+
+@media (min-width: 900px) {
+    .dsa-cardOffer .m-offerBody__footer {
+        font-size: 14px;
+        font-size: 14px;
+    }
+}
+
+.dsa-card .a-image img {
+    max-height: 100%;
+    max-width: 100%;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.dsa-cardOffer .a-image img {
+    transform: scale(1);
+    transition: all .3s;
+    max-height: 300px;
+    transform: scale(1);
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    max-height: 300px;
+}
+
+.dsa-card .a-title {
+    font-weight: 600;
+    font-size: 1.6rem;
+    text-align: center;
+    font-weight: 600;
+}
+
+@media (min-width: 900px) {
+    .dsa-card .a-title {
+        font-weight: 600;
+        font-weight: 600;
+    }
+}
+
+.dsa-cardOffer .a-offerDescription {
+    line-height: 1.4;
+    font-size: 1.6rem;
+    margin-top: 8px;
+}
+
+@media (min-width: 900px) {
+    .dsa-cardOffer .a-offerDescription {
+        line-height: 1.33;
+        font-size: 14px;
+        margin-top: 16px;
+        line-height: 1.33;
+        font-size: 14px;
+        margin-top: 16px;
+    }
+}
+
+sub {
+    font-size: 50%;
+    line-height: 1;
+    font-size: 50%;
+    line-height: 1;
+}
+
+a {
+    text-decoration: none;
+    color: #2f6fa7;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: rgb(47, 111, 167);
+}
+
+.text-copy {
+    font-size: 1.6rem;
+    font-size: 1.6rem;
+}
+
+.d-inline-flex {
+    display: inline-flex!important;
+    display: inline-flex !important;
+}
+
+.align-items-center {
+    align-items: center!important;
+    align-items: center !important;
+}
+
+.dsa-rdsLink {
+    line-height: 1.5;
+    white-space: nowrap;
+    line-height: 1.5;
+    white-space: nowrap;
+}
+
+.dsa-rdsLink.-link {
+    color: #2f6fa7;
+    color: rgb(47, 111, 167);
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.dsa-rdsLink:hover {
+    text-decoration: none;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+.dsa-rdsLink__wrapper {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+}
+
+.dsa-rdsLink>span {
+    line-height: 1;
+    line-height: 1;
+}
+
+.dsa-rdsLink.-link>span {
+    display: flex;
+    align-items: center;
+    transition: margin .2s cubic-bezier(.51, 1.11, .32, 1.53);
+    display: flex;
+    align-items: center;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.51, 1.11, 0.32, 1.53);
+    transition-delay: 0s;
+    transition-property: margin;
+}
+
+.dsa-rdsLink__content {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+    white-space: nowrap;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+}
+
+.dsa-rdsLink.-link .dsa-rdsLink__content {
+    border-bottom: 1px solid rgba(47, 111, 167, 0);
+    padding: 4px 0;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(47, 111, 167, 0);
+    padding-top: 4px;
+    padding-right: 0px;
+    padding-bottom: 4px;
+    padding-left: 0px;
+}
+
+[class*=" rds-icon-"] {
+    font-family: rds-icon!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 2.4rem;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 2.4rem;
+    font-family: rds-icon !important;
+}
+
+.dsa-rdsLink.-link .dsa-rdsLink__icon {
+    margin-left: 4px;
+    transition: margin .2s cubic-bezier(.51, 1.11, .32, 1.53);
+    margin-left: 4px;
+    transition-duration: 0.2s;
+    transition-timing-function: cubic-bezier(0.51, 1.11, 0.32, 1.53);
+    transition-delay: 0s;
+    transition-property: margin;
+}
+
+.rds-icon-chevron-right:before,
+.rds-icon-right:before {
+    content: '\e906';
+    content: "";
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+.snipcss-WZ5sl {
+    color: rgb(31, 31, 31);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Ted Next';
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: "Ted Next";
+}
+
+.dsa-tabs .dsa-tabItem {
+    padding-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.dsa-tabs .m-tabBody {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    top: 0px;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .m-tabBody {
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+}
+
+.dsa-tabs .m-tabPaneContainer__wrapper {
+    width: 100%;
+    position: relative;
+    width: 100%;
+    position: relative;
+}
+
+.dsa-tabs .m-tabPaneContainer {
+    overflow: hidden;
+    white-space: nowrap;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    white-space: nowrap;
+    display: flex;
+}
+
+.container {
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+        max-width: 1200px;
+    }
+}
+
+.mt-4 {
+    margin-top: 4px!important;
+    margin-top: 4px !important;
+}
+
+@media (min-width: 400px) {
+    .mt-xs-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 600px) {
+    .mt-sm-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .mt-md-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.col-lg-12,
+.col-md-12,
+.col-sm-12,
+.col-xs-12 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+@media (min-width: 400px) {
+    .col-xs-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 600px) {
+    .col-sm-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 900px) {
+    .col-md-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+* {
+    display: block;
+    display: block;
+}
+
+@media (min-width: 1200px) {
+    .dsa-layout>.row>.mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        padding-right: 0;
+        padding-left: 0;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        max-width: 100%;
+        max-width: 100%;
+    }
+}
+
+.w-100 {
+    width: 100%!important;
+    width: 100% !important;
+}
+
+.l-pageMain {
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition: padding-top .6s cubic-bezier(.4, 0, .2, 1);
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-delay: 0s;
+    transition-property: padding-top;
+}
+
+.main[_ngcontent-browse-rogers-c0] {
+    overflow-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+@media (min-width: 900px) {
+    #mainContent {
+        padding-top: 150px;
+        padding-top: 150px;
+    }
+}
+
+body {
+    height: 100%;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-x: hidden;
+}
+
+body {
+    font-size: 1.6rem;
+    color: #1f1f1f;
+    font-size: 1.6rem;
+    color: rgb(31, 31, 31);
+}
+
+body {
+    background: #fff;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+}
+
+html {
+    height: 100%;
+    height: 100%;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+.dsa-tabs .dsa-tabItem__actionContainer {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+@media (min-width: 900px) {
+    .dsa-tabs .dsa-tabItem__actionContainer {
+        margin-top: 0;
+        margin-top: 0px;
+    }
+}
+
+button.dsa-btnSecondary {
+    font-size: 1.3rem;
+    font-weight: 600;
+    position: relative;
+    height: 48px;
+    border-radius: 4px;
+    letter-spacing: .4px;
+    line-height: 1;
+    display: inline-block;
+    cursor: pointer;
+    background-color: transparent;
+    padding: 16px;
+    max-width: 100%;
+    text-align: center;
+    transition: all .5s cubic-bezier(.4, 0, .2, 1);
+    border: 1px solid transparent;
+    font-weight: 600;
+    position: relative;
+    height: 48px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    letter-spacing: 0.4px;
+    line-height: 1;
+    display: inline-block;
+    cursor: pointer;
+    background-color: transparent;
+    padding-top: 16px;
+    padding-right: 16px;
+    padding-bottom: 16px;
+    padding-left: 16px;
+    max-width: 100%;
+    text-align: center;
+    transition-duration: 0.5s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-delay: 0s;
+    transition-property: all;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+}
+
+button.dsa-btnSecondary {
+    border-color: #fff;
+    color: #fff;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    color: #fff;
+}
+
+button.dsa-btnSecondary:hover {
+    box-shadow: 0 0 6px 0 rgba(65, 64, 66, .24);
+    text-decoration: none;
+    box-shadow: rgba(65, 64, 66, 0.24) 0px 0px 6px 0px;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+button.dsa-btnSecondary:hover {
+    color: #fff;
+    color: rgb(255, 255, 255);
+}
+
+.button-container {
+    margin: 30px 0px 30px 0px;
+    button {
+        margin-left: 660px
+    }
+}

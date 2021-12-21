@@ -1,0 +1,836 @@
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Light.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-LightItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Italic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Medium.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-SemiBoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-Bold.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Ted Next";
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype");
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.eot?ODAzLjkuMg#iefix-ypioc1) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff2?ODAzLjkuMg) format("woff2"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/TedNext-BoldItalic.svg?ODAzLjkuMg#svgYolo) format("svg");
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: rds-icon;
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.eot?ODAzLjkuMg);
+    src: url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.eot?ODAzLjkuMg#iefix) format("embedded-opentype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.ttf?ODAzLjkuMg) format("truetype"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.woff?ODAzLjkuMg) format("woff"), url(https://assets.rogers-assets.com/v8/rogers/fonts/rds-icon.svg?ODAzLjkuMg#rds-icon) format("svg");
+    font-weight: 400;
+    font-style: normal;
+}
+
+.snipcss-lHrZA {
+    color: rgb(31, 31, 31);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Ted Next';
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-family: "Ted Next";
+}
+
+.m-auto {
+    margin: auto!important;
+    margin-top: auto !important;
+    margin-right: auto !important;
+    margin-bottom: auto !important;
+    margin-left: auto !important;
+}
+
+.w-100 {
+    width: 100%!important;
+    width: 100% !important;
+}
+
+.mb-24 {
+    margin-bottom: 24px!important;
+    margin-bottom: 24px !important;
+}
+
+.h-100 {
+    height: 100%!important;
+    height: 100% !important;
+}
+
+.position-relative {
+    position: relative!important;
+    position: relative !important;
+}
+
+.d-block {
+    display: block!important;
+    display: block !important;
+}
+
+.ds-no-overflow {
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.ds-carousel__slide {
+    width: 100%;
+    width: 100%;
+}
+
+.d-flex {
+    display: flex!important;
+    display: flex !important;
+}
+
+@media (min-width: 400px) {
+    .mt-xs-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 600px) {
+    .mt-sm-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .mt-md-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.col-lg-12,
+.col-md-12,
+.col-sm-12,
+.col-xs-12 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+@media (min-width: 400px) {
+    .col-xs-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 600px) {
+    .col-sm-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 900px) {
+    .col-md-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 1200px) {
+    .col-lg-12 {
+        flex: 0 0 100%;
+        max-width: 100%;
+        flex-grow: 0;
+        flex-shrink: 0;
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+}
+
+* {
+    display: block;
+    display: block;
+}
+
+@media (min-width: 1200px) {
+    .dsa-layout>.row>.mt-lg-0 {
+        margin-top: 0!important;
+        margin-top: 0px !important;
+    }
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -12px;
+    margin-left: -12px;
+}
+
+.container {
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    padding-right: 24px;
+    padding-left: 24px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1200px;
+        max-width: 1200px;
+    }
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        padding-right: 0;
+        padding-left: 0;
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+}
+
+@media (min-width: 600px) {
+    .dsa-layout.container.-fullBleedDesktop {
+        max-width: 100%;
+        max-width: 100%;
+    }
+}
+
+.l-pageMain {
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition: padding-top .6s cubic-bezier(.4, 0, .2, 1);
+    position: relative;
+    padding-top: 148px;
+    padding-bottom: 48px;
+    transition-duration: 0.6s;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-delay: 0s;
+    transition-property: padding-top;
+}
+
+.main[_ngcontent-browse-rogers-c0] {
+    overflow-wrap: break-word;
+    overflow-wrap: break-word;
+}
+
+@media (min-width: 900px) {
+    #mainContent {
+        padding-top: 150px;
+        padding-top: 150px;
+    }
+}
+
+body {
+    height: 100%;
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    overflow-x: hidden;
+}
+
+body {
+    font-size: 1.6rem;
+    color: #1f1f1f;
+    font-size: 1.6rem;
+    color: rgb(31, 31, 31);
+}
+
+body {
+    background: #fff;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+}
+
+html {
+    height: 100%;
+    height: 100%;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+@media (min-width: 900px) {
+    .px-md-24 {
+        padding-left: 24px!important;
+        padding-right: 24px!important;
+        padding-left: 24px !important;
+        padding-right: 24px !important;
+    }
+}
+
+.flex-column-reverse {
+    flex-direction: column-reverse!important;
+    flex-direction: column-reverse !important;
+}
+
+.align-items-center {
+    align-items: center!important;
+    align-items: center !important;
+}
+
+@media (min-width: 900px) {
+    .flex-md-row {
+        flex-direction: row!important;
+        flex-direction: row !important;
+    }
+}
+
+.ds-color-white {
+    color: #fff!important;
+    color: rgb(255, 255, 255) !important;
+}
+
+@media (min-width: 900px) {
+    .dsa-banner__wrapper {
+        max-width: 1200px;
+        height: 512px;
+        max-width: 1200px;
+        height: 512px;
+    }
+}
+
+.dsa-banner.-bgImg .dsa-banner__wrapper {
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center top;
+    background-repeat-x: no-repeat;
+    background-repeat-y: no-repeat;
+    background-size: 100% 100%;
+    background-position-x: center;
+    background-position-y: top;
+}
+
+@media (min-width: 900px) {
+    .w-md-50 {
+        width: 50%!important;
+        width: 50% !important;
+    }
+}
+
+.p-24 {
+    padding: 24px!important;
+    padding-top: 24px !important;
+    padding-right: 24px !important;
+    padding-bottom: 24px !important;
+    padding-left: 24px !important;
+}
+
+@media (min-width: 900px) {
+    .pr-md-12 {
+        padding-right: 12px!important;
+        padding-right: 12px !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .pl-md-0 {
+        padding-left: 0!important;
+        padding-left: 0px !important;
+    }
+}
+
+@media (min-width: 900px) {
+    .py-md-0 {
+        padding-top: 0!important;
+        padding-bottom: 0!important;
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+}
+
+.text-center {
+    text-align: center!important;
+    text-align: center !important;
+}
+
+@media (min-width: 900px) {
+    .text-md-left {
+        text-align: left!important;
+        text-align: left !important;
+    }
+}
+
+.pr-24 {
+    padding-right: 24px!important;
+    padding-right: 24px !important;
+}
+
+@media (min-width: 900px) {
+    .pr-md-0 {
+        padding-right: 0!important;
+        padding-right: 0px !important;
+    }
+}
+
+.pl-24 {
+    padding-left: 24px!important;
+    padding-left: 24px !important;
+}
+
+@media (min-width: 900px) {
+    .pl-md-12 {
+        padding-left: 12px!important;
+        padding-left: 12px !important;
+    }
+}
+
+p {
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 0;
+    font-size: 1.6rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 0px;
+}
+
+.text-title-1 {
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: -.3px;
+    margin-bottom: 4rem;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: -0.3px;
+    margin-bottom: 4rem;
+    font-size: 50px;
+}
+
+.mb-16 {
+    margin-bottom: 16px!important;
+    margin-bottom: 16px !important;
+}
+
+.text-body-lg {
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 1.6rem;
+    font-size: 1.8rem;
+    font-weight: 500;
+    line-height: 1.5;
+    margin-bottom: 1.6rem;
+}
+
+.mb-0 {
+    margin-bottom: 0!important;
+    margin-bottom: 0px !important;
+}
+
+.d-inline-flex {
+    display: inline-flex!important;
+    display: inline-flex !important;
+}
+
+.mt-16 {
+    margin-top: 16px!important;
+    margin-top: 16px !important;
+}
+
+.mr-16 {
+    margin-right: 16px!important;
+    margin-right: 16px !important;
+}
+
+.mw-100 {
+    max-width: 100%!important;
+    max-width: 100% !important;
+}
+
+@media (min-width: 900px) {
+    .dsa-banner__image ds-picture {
+        display: block;
+        max-height: 512px;
+        display: block;
+        max-height: 512px;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #2f6fa7;
+    text-decoration-line: none;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+    color: rgb(47, 111, 167);
+}
+
+.d-inline-block {
+    display: inline-block!important;
+    display: inline-block !important;
+}
+
+.ds-pointer {
+    cursor: pointer;
+    cursor: pointer;
+}
+
+.ds-corners {
+    border-radius: 4px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.ds-button {
+    height: 48px;
+    border: 1px solid transparent;
+    background-color: transparent;
+    transition: all .1s linear;
+    padding: 0 16px;
+    height: 48px;
+    border-top-width: 1px;
+    border-right-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+    background-color: transparent;
+    transition-duration: 0.1s;
+    transition-timing-function: linear;
+    transition-delay: 0s;
+    transition-property: all;
+    padding-top: 0px;
+    padding-right: 16px;
+    padding-bottom: 0px;
+    padding-left: 16px;
+}
+
+.ds-button.-primary {
+    background-color: #da291c;
+    border-color: #da291c;
+    color: #fff;
+    background-color: rgb(218, 41, 28);
+    border-top-color: rgb(218, 41, 28);
+    border-right-color: rgb(218, 41, 28);
+    border-bottom-color: rgb(218, 41, 28);
+    border-left-color: rgb(218, 41, 28);
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-thickness: initial;
+    text-decoration-style: initial;
+    text-decoration-color: initial;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .ds-button:hover {
+        outline: 0;
+        text-decoration: none;
+        box-shadow: none;
+        outline-color: initial;
+        outline-style: initial;
+        outline-width: 0px;
+        text-decoration-line: none;
+        text-decoration-thickness: initial;
+        text-decoration-style: initial;
+        text-decoration-color: initial;
+        box-shadow: none;
+    }
+}
+
+.ds-button.-secondary {
+    background: #fff;
+    border-color: #da291c;
+    color: #da291c;
+    background-image: initial;
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat-x: initial;
+    background-repeat-y: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: rgb(255, 255, 255);
+    border-top-color: rgb(218, 41, 28);
+    border-right-color: rgb(218, 41, 28);
+    border-bottom-color: rgb(218, 41, 28);
+    border-left-color: rgb(218, 41, 28);
+    color: rgb(218, 41, 28);
+}
+
+.ratio-16by9 {
+    padding-top: 56.25%;
+    padding-top: 56.25%;
+}
+
+@media (min-width: 900px) {
+    .ratio-md-1by1 {
+        padding-top: 100%;
+        padding-top: 100%;
+    }
+}
+
+.ds-picture {
+    position: relative;
+    position: relative;
+}
+
+.justify-content-center {
+    justify-content: center!important;
+    justify-content: center !important;
+}
+
+.ds-button__wrapper {
+    height: 100%;
+    width: 100%;
+    height: 100%;
+    width: 100%;
+}
+
+@media (min-width: 900px) {
+    .dsa-banner__image ds-picture picture {
+        max-height: 512px;
+        max-height: 512px;
+    }
+}
+
+.ds-picture:not(.ratio-auto) picture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.text-button {
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: .4px;
+    font-size: 1.6rem;
+    font-weight: 600;
+    line-height: 1.5;
+    letter-spacing: 0.4px;
+}
+
+.text-nowrap {
+    white-space: nowrap!important;
+    white-space: nowrap !important;
+}
+
+.ds-button__copy {
+    text-overflow: ellipsis;
+    text-overflow: ellipsis;
+}
+
+ds-icon {
+    display: inline-flex;
+    justify-content: center;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.ds-button ds-icon {
+    margin-left: 4px;
+    margin-left: 4px;
+}
+
+ds-icon.-size-24 {
+    min-width: 24px;
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    width: 24px;
+    height: 24px;
+}
+
+.ds-picture img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.ds-picture.-product img {
+    object-fit: contain;
+    object-fit: contain;
+}
+
+[class*=" rds-icon-"] {
+    font-family: rds-icon!important;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 2.4rem;
+    speak: none;
+    font-style: normal;
+    font-weight: 400;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    text-transform: none;
+    line-height: 1;
+    font-size: 2.4rem;
+    font-family: rds-icon !important;
+}
+
+ds-icon.-size-24 .ds-icon {
+    font-size: 2.4rem;
+    line-height: 24px;
+    font-size: 2.4rem;
+    line-height: 24px;
+}
+
+.rds-icon-chevron-right:before,
+.rds-icon-right:before {
+    content: '\e906';
+    content: "";
+}
+
+.background {
+    background: black;
+}

@@ -3,18 +3,22 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './header/header.component';
-import { FooterComponent } from './footer/footer.component';
-import { BannerComponent } from './banner/banner.component';
+import { AppNavComponent } from './app-nav/app-nav.component';
+import { SearchComponent } from './search/search.component';
 import { OffersComponent } from './offers/offers.component';
+import { ProductsComponent } from './products/products.component';
+import { EventsComponent } from './events/events.component';
+import { PlansDevicesNetworksComponent } from './plans-devices-networks/plans-devices-networks.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent,
-    FooterComponent,
-    BannerComponent,
-    OffersComponent
+    AppNavComponent,
+    SearchComponent,
+    OffersComponent,
+    ProductsComponent,
+    EventsComponent,
+    PlansDevicesNetworksComponent
   ],
   imports: [
     BrowserModule,
